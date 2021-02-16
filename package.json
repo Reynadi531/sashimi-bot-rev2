@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "name": "kitsunebot-rev2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SASHIMI SERVER",
+  "license": "MIT"
+}
